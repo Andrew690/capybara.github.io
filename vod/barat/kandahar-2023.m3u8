@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent=Android-R+
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",GROUP-GENRE="Action",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="id",URI="https://capybarastream.github.io/sub/kandahar-2023.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",GROUP-GENRE="Action",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="id",URI="https://capybarastream.github.io/sub/barat/kandahar-2023.m3u8"
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1800000, RESOLUTION=1280x720, SUBTITLES="subs" 
 http://23.226.71.77/VfheyDISZoHMsz_1SmXykry9qBKxsxbaJly9TYh5aV65Oug7RlyG2DGrXfXi10CcuibHzJ3Y-BDbffGv1IaFeg/QPSQcuScrdbVHWe9SAu4ObiWPOdttxdMzbr87kAJi-U/1080.m3u8
